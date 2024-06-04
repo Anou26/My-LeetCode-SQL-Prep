@@ -1,5 +1,10 @@
-# LeetCode-SQL
+# LeetCode-SQL-Solutions
 
+Welcome to my collection of LeetCode SQL problem solutions. This repository contains solutions to various LeetCode problems that I have solved. Each solution is organized by problem name and includes my approach and code.
+
+## Repository Structure
+
+The repository is organized into directories based on problem categories or difficulty levels. Each directory contains multiple subdirectories or files named after the specific problems.
 
 # Database
 |  |
