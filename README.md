@@ -2,12 +2,6 @@
 
 Welcome to my collection of LeetCode SQL problem solutions. This repository contains solutions to various LeetCode problems that I have solved. Each solution is organized by problem name and includes my approach and code.
 
-#
-
-
-# Repository Structure
-|  |
-| ------- |
 # Database
 |  |
 | ------- |
